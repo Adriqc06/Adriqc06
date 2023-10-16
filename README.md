@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adriana</h1>
 <h3 align="center">A Software Developer. I love cats, watch movies and the cheese pie</h3>
 
-- 🌱 I’m currently learning **about angelar**
+-🌱 
+- Specialized in software engineering.
+- Web development as a full-stack developer.
 
 - 📫 How to reach me: **adrianaqc06gmail.com**
 
