@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adrianaqc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianaqc" height="30" width="40" /></a>
+<a href="https://github.com/Adriqc06/cvAdrianaQuijada" target="blank"><img align="center" src="📁" alt="adrianaqc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
