@@ -10,8 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adrianaqc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianaqc" height="30" width="40" /></a>
-<a href="https://github.com/Adriqc06/cvAdrianaQuijada" target="blank"><img align="center" src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/40ec7cf5-39f8-4a05-b345-9c4f8f1d857f" />
-" alt="adrianaqc" height="30" width="40" /></a>
+<a href="https://github.com/Adriqc06/cvAdrianaQuijada" target="blank"><img align="center" src="https://adriqc06.github.io/cvAdrianaQuijada/imagenes/folder.png" alt="adrianaqc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
