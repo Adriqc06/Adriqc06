@@ -59,30 +59,6 @@ I enjoy analyzing problems, building efficient solutions and developing maintain
 
 `Swagger / OpenAPI` `Azure DevOps` `Jira` `Power BI` `npm` `Angular CLI`
 
----
-
-## ✨ Featured Projects
-
-### 🏛️ Enterprise Applications & REST APIs
-Development and maintenance of enterprise web and mobile applications, including REST API architecture, authentication and authorization.
-
-**Technologies:** C# · .NET 8 · ASP.NET Core · SQL Server · JWT · Swagger
-
-### 🔄 Database Modernization
-Participation in system modernization and database migration from MySQL to SQL Server using Entity Framework Core.
-
-**Technologies:** MySQL · SQL Server · Entity Framework Core · Database First
-
-### 👥 Human Resources & Payroll System
-Web development for a human resources and payroll management project, including incident tracking.
-
-**Technologies:** C# · ASP.NET · SQL
-
-<div align="center">
-
-[![Explore Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-E9A4C5?style=for-the-badge&logo=github&logoColor=white)](https://adriqc06.github.io/cvAdrianaQuijada/)
-
-</div>
 
 ---
 
